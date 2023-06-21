@@ -5,8 +5,8 @@ A taxi company called Sweet Lift has collected historical data about taxi orders
 
 The RMSE metric on test set cannot be more than 48.
 
-1  Task instructions
--Download data and do resampling in one hour.
--Analysis of the data.
--Train different models with different hyperparameters. The test sample must be 10% of the initial dataset.
--Test the data using a test sample and provide a conclusion.
+Task instructions
+- Download data and do resampling in one hour.
+- Analysis of the data.
+- Train different models with different hyperparameters. The test sample must be 10% of the initial dataset.
+- Test the data using a test sample and provide a conclusion.
