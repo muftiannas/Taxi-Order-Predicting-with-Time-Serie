@@ -1,4 +1,4 @@
-# Taxi-Order-Predicting-with-Time-Serie
+# Taxi-Order-Predicting-with-Time-Series
 
 Task description
 A taxi company called Sweet Lift has collected historical data about taxi orders at airports. In order to attract more drivers during peak hours, it is necessary to predict the number of taxi orders for the next hour. Create a model for such predictions.
